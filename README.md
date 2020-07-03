@@ -18,6 +18,12 @@ All you need to do is :
 
 3. Run the index.js file by typing, (node index.js) in command prompt without brackets.
 
+4. Go to the  browser and go to the url - http://localhost:3001/
+
+5. Search for the word either in sinhala or english ( But when you want sinhala, get the sinhala words from anywhere and paste it there)
+
+6. Examples for sinhala words : - "අම්මා", "අම්", "මන්දාරම්" , "මන්දාර"
+
 
 Description - 
 

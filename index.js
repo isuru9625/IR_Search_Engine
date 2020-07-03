@@ -57,7 +57,7 @@ app.get('/search', function (req, res){
     query: {
       multi_match: {
           query: req.query['q'],
-		  fields: ['track_name_en', 'track_name_si^3' , 'album_name_en','album_name_si','artist_name_si'],
+		  fields: ['track_name_en', 'track_name_si^3' , 'album_name_en','album_name_si','artist_name_si', 'lyrics'],
 		  type : 'phrase_prefix',
 		  slop:3
       }
