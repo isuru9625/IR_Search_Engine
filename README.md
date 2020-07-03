@@ -4,8 +4,8 @@ This is a simple search engine..
 
 
 Requirements:
-1. Elasticsearch should be up and running.
-2. Kibana should be up and running.
+1. Elasticsearch(version - 7.7.1 or higher) should be up and running.
+2. Kibana(version - 7.7.1 or higher) should be up and running.
 3. Node.js should be installed. Confirm it by typing, (node --version ) in command prompt without brackets.
 
 
