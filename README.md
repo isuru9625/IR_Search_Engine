@@ -21,5 +21,7 @@ All you need to do is :
 
 Description - 
 
-1.Python code that has been used to scrape the meta data of sinhala songs 
+1.Python code(scraper.py) that has been used to scrape the meta data of sinhala songs is in the Scrape folder. 
+
+2. Scraped json file(out.json) is in the root folder.
 
