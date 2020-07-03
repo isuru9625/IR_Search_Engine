@@ -17,3 +17,7 @@ All you need to do is :
 2. Run the index.js file by typing, (node index.js) in command prompt without brackets.
 
 
+Description - 
+
+1.Python code that has been used to scrape the meta data of sinhala songs 
+
