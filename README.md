@@ -14,7 +14,9 @@ All you need to do is :
 1. Clone this reository by 
 ( git clone https://github.com/isuru9625/IR_Search_Engine.git )
 
-2. Run the index.js file by typing, (node index.js) in command prompt without brackets.
+2. Run the data.js file by typing, (node index.js) in command prompt without brackets. It will add all the meta data(which are in out.json file) to elasticsearch. There are 2700 songs with meta data in out.json file.
+
+3. Run the index.js file by typing, (node index.js) in command prompt without brackets.
 
 
 Description - 
